@@ -1,16 +1,6 @@
-# bai_tap_ca_nhan_flutter
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Bài tập A03 (11/02/2025)
+## Xây dựng trang profile của người dùng
+[LINK GITHUB BAI TAP NHOM MOI](https://github.com/Young-Z-Generation-YZG/Backend_Mobile_HCMUTE)
+### Thành viên nhóm:
+- 21110359 - Lê Xuân Bách
+- 21110847 - Trần Quốc Phương
